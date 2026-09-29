@@ -1,0 +1,11 @@
+# Allow only reviewed prompt/policy documents.
+*
+!.gitignore
+!README.md
+!AGENTS.md
+!prompts/
+!prompts/*.md
+!policies/
+!policies/*.md
+!docs/
+!docs/*.md
